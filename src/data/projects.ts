@@ -38,7 +38,7 @@ export const projects: Project[] = [
   },
   {
     id: "monitoramento-riscos",
-    title: "Monitoramento de Riscos Operacionais em Campanhas",
+    title: "Monitoramento de Riscos Operacionais ",
     shortDescription: "Solução de reconciliação de dados para validação de cadastros e mitigação de cobranças indevidas.",
     introPhrase: "Neste projeto, desenvolvi uma solução voltada para controle de risco operacional, validando se cadastros solicitados foram efetivamente realizados e se os parâmetros foram configurados corretamente.",
     fullContent: {
