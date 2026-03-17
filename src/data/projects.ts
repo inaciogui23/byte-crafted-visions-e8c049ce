@@ -14,7 +14,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: "acompanhamento-limites",
-    title: "Acompanhamento de Limites na Abertura",
+    title: "Acompanhamento de Limites",
     shortDescription: "Pipeline analítico para rastreabilidade, validação e monitoramento do processo de concessão de limites.",
     introPhrase: "Neste projeto, desenvolvi uma solução de dados voltada para rastrear, validar e analisar o processo de concessão de limites durante a abertura de contas.",
     fullContent: {
@@ -26,7 +26,7 @@ export const projects: Project[] = [
   },
   {
     id: "reestruturacao-campanhas",
-    title: "Reestruturação da Base de Campanhas e Descontos",
+    title: "Reestruturação da Base Critica",
     shortDescription: "Substituição de processo legado em Access por uma solução escalável de ETL com evolução para nuvem.",
     introPhrase: "Neste projeto, desenvolvi uma solução para reestruturar o processamento de uma base crítica de campanhas e descontos, substituindo um fluxo legado limitado por uma arquitetura mais robusta e escalável.",
     fullContent: {
@@ -38,7 +38,7 @@ export const projects: Project[] = [
   },
   {
     id: "monitoramento-riscos",
-    title: "Monitoramento de Riscos Operacionais em Campanhas",
+    title: "Monitoramento de Riscos Operacionais ",
     shortDescription: "Solução de reconciliação de dados para validação de cadastros e mitigação de cobranças indevidas.",
     introPhrase: "Neste projeto, desenvolvi uma solução voltada para controle de risco operacional, validando se cadastros solicitados foram efetivamente realizados e se os parâmetros foram configurados corretamente.",
     fullContent: {
@@ -50,7 +50,7 @@ export const projects: Project[] = [
   },
   {
     id: "automacao-conta-salario",
-    title: "Automação de Geração de Arquivos para Abertura de Conta Salário",
+    title: "Automação de Geração de Arquivos para Abertura de Conta",
     shortDescription: "Automação de processo operacional com aplicativo em Python, reduzindo horas de trabalho para poucos minutos.",
     introPhrase: "Neste projeto, desenvolvi uma automação para eliminar etapas manuais na montagem de arquivos necessários para abertura de contas salário, trazendo mais velocidade, padronização e confiabilidade ao processo.",
     fullContent: {
