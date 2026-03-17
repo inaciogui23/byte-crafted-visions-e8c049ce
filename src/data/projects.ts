@@ -50,7 +50,7 @@ export const projects: Project[] = [
   },
   {
     id: "automacao-conta-salario",
-    title: "Automação de Geração de Arquivos para Abertura de Conta Salário",
+    title: "Automação de Geração de Arquivos para Abertura de Conta",
     shortDescription: "Automação de processo operacional com aplicativo em Python, reduzindo horas de trabalho para poucos minutos.",
     introPhrase: "Neste projeto, desenvolvi uma automação para eliminar etapas manuais na montagem de arquivos necessários para abertura de contas salário, trazendo mais velocidade, padronização e confiabilidade ao processo.",
     fullContent: {
