@@ -14,7 +14,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: "acompanhamento-limites",
-    title: "Acompanhamento de Limites na Abertura",
+    title: "Acompanhamento de Limites",
     shortDescription: "Pipeline analítico para rastreabilidade, validação e monitoramento do processo de concessão de limites.",
     introPhrase: "Neste projeto, desenvolvi uma solução de dados voltada para rastrear, validar e analisar o processo de concessão de limites durante a abertura de contas.",
     fullContent: {
