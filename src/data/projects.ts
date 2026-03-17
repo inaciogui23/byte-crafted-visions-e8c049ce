@@ -26,7 +26,7 @@ export const projects: Project[] = [
   },
   {
     id: "reestruturacao-campanhas",
-    title: "Reestruturação da Base de Campanhas e Descontos",
+    title: "Reestruturação da Base Critica",
     shortDescription: "Substituição de processo legado em Access por uma solução escalável de ETL com evolução para nuvem.",
     introPhrase: "Neste projeto, desenvolvi uma solução para reestruturar o processamento de uma base crítica de campanhas e descontos, substituindo um fluxo legado limitado por uma arquitetura mais robusta e escalável.",
     fullContent: {
