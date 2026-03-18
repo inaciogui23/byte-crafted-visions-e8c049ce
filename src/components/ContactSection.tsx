@@ -10,7 +10,7 @@ const contactLinks = [
   {
     icon: Mail,
     label: "E-mail",
-    href: "mailto:contato@guilhermeinacio.com",
+    href: "mailto:Guilherme.inacio.2@icloud.com",
   },
   {
     icon: Github,
