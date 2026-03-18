@@ -5,12 +5,12 @@ const contactLinks = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com/in/guilherme-inacio",
+    href: "https://www.linkedin.com/in/guilherme-inacio-69b7a0227/",
   },
   {
     icon: Mail,
     label: "E-mail",
-    href: "mailto:contato@guilhermeinacio.com",
+    href: "mailto:Guilherme.inacio.2@icloud.com",
   },
   {
     icon: Github,
